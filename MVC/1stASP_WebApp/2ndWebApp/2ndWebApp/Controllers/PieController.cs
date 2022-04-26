@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using _2ndWebApp.ViewModels;
 
 namespace _2ndWebApp.Controllers
 {
@@ -20,8 +21,12 @@ namespace _2ndWebApp.Controllers
         }
         public ViewResult List()
         {
-            ViewBag.CurrentCategory = "Cheese Cake";
-            return View(_pieRepository.AllPies);
+            PiesListViewModel piesListViewModel = new PiesListViewModel();
+            piesListViewModel.Pies = _pieRepository.AllPies;
+            piesListViewModel.CurrentCategory = "Cheese Cake";
+         
+        
+            return View(piesListViewModel);
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nuno\\Desktop\\Github\\RPA_C#\\Pluralsight\\1stASP_WebApp\\2ndWebApp\\2ndWebApp\\2ndWebApp.csproj": {}
+    "C:\\Users\\Nuno\\Desktop\\Github\\RPA_C#\\Pluralsight\\MVC\\1stASP_WebApp\\2ndWebApp\\2ndWebApp\\2ndWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nuno\\Desktop\\Github\\RPA_C#\\Pluralsight\\1stASP_WebApp\\2ndWebApp\\2ndWebApp\\2ndWebApp.csproj": {
+    "C:\\Users\\Nuno\\Desktop\\Github\\RPA_C#\\Pluralsight\\MVC\\1stASP_WebApp\\2ndWebApp\\2ndWebApp\\2ndWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nuno\\Desktop\\Github\\RPA_C#\\Pluralsight\\1stASP_WebApp\\2ndWebApp\\2ndWebApp\\2ndWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Nuno\\Desktop\\Github\\RPA_C#\\Pluralsight\\MVC\\1stASP_WebApp\\2ndWebApp\\2ndWebApp\\2ndWebApp.csproj",
         "projectName": "2ndWebApp",
-        "projectPath": "C:\\Users\\Nuno\\Desktop\\Github\\RPA_C#\\Pluralsight\\1stASP_WebApp\\2ndWebApp\\2ndWebApp\\2ndWebApp.csproj",
+        "projectPath": "C:\\Users\\Nuno\\Desktop\\Github\\RPA_C#\\Pluralsight\\MVC\\1stASP_WebApp\\2ndWebApp\\2ndWebApp\\2ndWebApp.csproj",
         "packagesPath": "C:\\Users\\Nuno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nuno\\Desktop\\Github\\RPA_C#\\Pluralsight\\1stASP_WebApp\\2ndWebApp\\2ndWebApp\\obj\\",
+        "outputPath": "C:\\Users\\Nuno\\Desktop\\Github\\RPA_C#\\Pluralsight\\MVC\\1stASP_WebApp\\2ndWebApp\\2ndWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -46,6 +46,18 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
