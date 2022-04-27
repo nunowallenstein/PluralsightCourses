@@ -22,6 +22,7 @@ namespace _2ndWebApp.Models
         public int CategoryId { get; set; }
         public Category Category { get; set; }
 
+        public string Notes { get; set; }
 
 
 

@@ -38,7 +38,6 @@ C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndW
 C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndWebApp\bin\Debug\netcoreapp3.1\2ndWebApp.pdb
 C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndWebApp\bin\Debug\netcoreapp3.1\2ndWebApp.Views.dll
 C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndWebApp\bin\Debug\netcoreapp3.1\2ndWebApp.Views.pdb
-C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndWebApp\obj\Debug\netcoreapp3.1\2ndWebApp.csproj.AssemblyReference.cache
 C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndWebApp\obj\Debug\netcoreapp3.1\2ndWebApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndWebApp\obj\Debug\netcoreapp3.1\2ndWebApp.AssemblyInfoInputs.cache
 C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndWebApp\obj\Debug\netcoreapp3.1\2ndWebApp.AssemblyInfo.cs
