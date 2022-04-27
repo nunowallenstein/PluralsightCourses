@@ -9,8 +9,8 @@ using _2ndWebApp.Models;
 namespace _2ndWebApp.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20220423133911_InitiaMigration")]
-    partial class InitiaMigration
+    [Migration("20220427083541_InitialMigration")]
+    partial class InitialMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

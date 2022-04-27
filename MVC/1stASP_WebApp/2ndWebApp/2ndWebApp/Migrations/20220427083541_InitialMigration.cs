@@ -2,7 +2,7 @@
 
 namespace _2ndWebApp.Migrations
 {
-    public partial class InitiaMigration : Migration
+    public partial class InitialMigration : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -30,7 +30,7 @@ namespace _2ndWebApp.Migrations
                     ShortDescription = table.Column<string>(nullable: true),
                     LongDescription = table.Column<string>(nullable: true),
                     AllergyInformation = table.Column<string>(nullable: true),
-                    Price = table.Column<decimal>(nullable: false),
+                    Price = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
                     ImageUrl = table.Column<string>(nullable: true),
                     ImageThumbnailUrl = table.Column<string>(nullable: true),
                     IsPieOfTheWeek = table.Column<bool>(nullable: false),
