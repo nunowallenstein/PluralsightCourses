@@ -79,3 +79,8 @@ C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndW
 C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndWebApp\obj\Debug\netcoreapp3.1\2ndWebApp.csproj.AssemblyReference.cache
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Pie\Details.cshtml.g.cs
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PieCard.cshtml.g.cs
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Carousel.cshtml.g.cs
