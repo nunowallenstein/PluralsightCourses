@@ -4,8 +4,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using _2ndWebApp.Models;
+using Microsoft.AspNetCore.Authorization;
+
 namespace _2ndWebApp.Controllers
 {
+     [Authorize]
     public class OrderController : Controller
     {
         IOrderRepository _orderRepository;
