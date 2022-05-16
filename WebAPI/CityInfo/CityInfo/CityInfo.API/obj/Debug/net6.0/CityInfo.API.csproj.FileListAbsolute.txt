@@ -25,3 +25,8 @@ C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CityInfo\CityInfo\CityInf
 C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CityInfo\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.pdb
 C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CityInfo\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.genruntimeconfig.cache
 C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CityInfo\CityInfo\CityInfo.API\obj\Debug\net6.0\ref\CityInfo.API.dll
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CityInfo\CityInfo\CityInfo.API\bin\Debug\net6.0\getting-started-with-rest-slides.pdf
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CityInfo\CityInfo\CityInfo.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CityInfo\CityInfo\CityInfo.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CityInfo\CityInfo\CityInfo.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CityInfo\CityInfo\CityInfo.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
