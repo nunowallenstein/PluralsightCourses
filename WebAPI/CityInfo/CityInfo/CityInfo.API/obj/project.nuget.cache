@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "VYKGK6dN4uh4qQh73JWGqiiSQUNaM9cJhEGd7slu3kUEoMIwHSM8YpQTniFgJDoizCe3IfmKGuv7iG9o61EaKg==",
+  "dgSpecHash": "RkEz1Cahj3EYW9AdOkRutkdA3ZsxEle17uTkfHA41Zz2MlPVvWkU+s2sA/JG6Q78G1JDGmSm/pYcukfrTOGJxA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nuno\\Desktop\\Github\\RPA_C#\\Pluralsight\\WebAPI\\CityInfo\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Nuno\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\Nuno\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\Nuno\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Nuno\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.1\\microsoft.aspnetcore.jsonpatch.6.0.1.nupkg.sha512",
     "C:\\Users\\Nuno\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.1\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.1.nupkg.sha512",
