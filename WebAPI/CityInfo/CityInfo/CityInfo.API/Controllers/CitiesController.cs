@@ -13,8 +13,11 @@ using Microsoft.AspNetCore.Authorization;
 namespace CityInfo.API.Controllers
 {
     [ApiController]
-    [Authorize]
-    [Route("api/cities")]
+    [ApiVersion("1.0")]
+    [ApiVersion("2.0")]
+
+   // [Authorize]
+    [Route("api/v{version:Apiversion}/cities")]
     public class CitiesController : ControllerBase
     {
 

@@ -8,6 +8,7 @@ using System.Net;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using Microsoft.OpenApi.Models;
 
 Log.Logger = new LoggerConfiguration()
     .MinimumLevel.Debug()
@@ -31,7 +32,28 @@ AddXmlDataContractSerializerFormatters();
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Services.AddSwaggerGen(
+
+   setupAction => { setupAction.AddSecurityDefinition("CityInfoBearerAuth", new OpenApiSecurityScheme()
+   {
+       Type = SecuritySchemeType.Http,
+       Scheme = "Bearer",
+       Description = "Input a valid token to access this API"
+   });
+       setupAction.AddSecurityRequirement(new OpenApiSecurityRequirement
+    {
+        {new OpenApiSecurityScheme
+               { Reference= new OpenApiReference{
+               Type=ReferenceType.SecurityScheme,
+               Id="CityInfoBearerAuth"}
+               },new List<string>()}
+    });
+
+
+   } 
+    );
+
+
 builder.Services.AddSingleton<FileExtensionContentTypeProvider>();
 #if DEBUG
 builder.Services.AddTransient<ILocalMailService, LocalMailService>();
@@ -59,6 +81,19 @@ builder.Services.AddAuthentication("Bearer").AddJwtBearer(options =>
     };
 
 });
+
+builder.Services.AddApiVersioning(setupAction =>
+{
+    setupAction.AssumeDefaultVersionWhenUnspecified = true;
+    setupAction.DefaultApiVersion = new Microsoft.AspNetCore.Mvc.ApiVersion(1, 0);
+    setupAction.ReportApiVersions = true;
+    //set default version when unspecified
+    //defaultapiversion 1.0
+    //Report versions
+
+}
+);
+
 builder.Services.AddAuthorization(options =>
 {
     options.AddPolicy("MustBeFromAntwerp", policy =>
@@ -68,6 +103,9 @@ builder.Services.AddAuthorization(options =>
     });
 }
 );
+
+
+
 
 var app = builder.Build();
 

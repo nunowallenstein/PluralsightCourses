@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fuOMqTouu7aC6l71dTtNA4XOXU4h8noBesSWyCXbj7K0ev0WaRbQ7E8yavxLgnB4pVLWq5pDgUsuOh8tEUDhgQ==",
+  "dgSpecHash": "5CIkPKDl+LLkwWq7RoJFBlOVNYwx5xmUsrlkcCJidPDKAxKe6vQrYehoEy9PP5k52Q7DkH+jQXAXSBS4dBqBkg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nuno\\Desktop\\Github\\RPA_C#\\Pluralsight\\WebAPI\\CityInfo\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\Nuno\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.0\\microsoft.aspnetcore.authentication.jwtbearer.6.0.0.nupkg.sha512",
     "C:\\Users\\Nuno\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.1\\microsoft.aspnetcore.jsonpatch.6.0.1.nupkg.sha512",
     "C:\\Users\\Nuno\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.1\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.1.nupkg.sha512",
+    "C:\\Users\\Nuno\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
     "C:\\Users\\Nuno\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Nuno\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0\\microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
     "C:\\Users\\Nuno\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
