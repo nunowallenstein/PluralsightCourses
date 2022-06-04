@@ -1,0 +1,53 @@
+2022-06-03 20:15:59.644 +01:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2022-06-03 20:15:59.718 +01:00 [DBG] Hosting starting
+2022-06-03 20:15:59.949 +01:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 4913AAC6740E8F0D7A17E5D0ECC2DCF4AAE84CA9)
+2022-06-03 20:15:59.977 +01:00 [INF] Now listening on: https://localhost:7093
+2022-06-03 20:15:59.978 +01:00 [INF] Now listening on: http://localhost:5093
+2022-06-03 20:15:59.978 +01:00 [DBG] Loaded hosting startup assembly CityInfo.API
+2022-06-03 20:15:59.979 +01:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2022-06-03 20:15:59.979 +01:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2022-06-03 20:15:59.980 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-03 20:15:59.981 +01:00 [INF] Hosting environment: Development
+2022-06-03 20:15:59.981 +01:00 [INF] Content root path: C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CityInfo\CityInfo\CityInfo.API\
+2022-06-03 20:15:59.981 +01:00 [DBG] Hosting started
+2022-06-03 20:16:20.766 +01:00 [DBG] Connection id "0HMI5IM5CV682" accepted.
+2022-06-03 20:16:27.876 +01:00 [DBG] Connection id "0HMI5IM5CV682" started.
+2022-06-03 20:16:27.919 +01:00 [DBG] Connection 0HMI5IM5CV682 established using the following protocol: "Tls12"
+2022-06-03 20:16:27.947 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7093/ - -
+2022-06-03 20:16:27.964 +01:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2022-06-03 20:16:27.991 +01:00 [DBG] The request path  does not match the path filter
+2022-06-03 20:16:28.005 +01:00 [DBG] No candidates found for the request path '/'
+2022-06-03 20:16:28.005 +01:00 [DBG] Request did not match any endpoints
+2022-06-03 20:16:28.044 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7093/ - - - 404 0 - 98.9221ms
+2022-06-03 20:16:28.094 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7093/favicon.ico - -
+2022-06-03 20:16:28.095 +01:00 [DBG] The request path  does not match the path filter
+2022-06-03 20:16:28.096 +01:00 [DBG] No candidates found for the request path '/favicon.ico'
+2022-06-03 20:16:28.098 +01:00 [DBG] Request did not match any endpoints
+2022-06-03 20:16:28.098 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7093/favicon.ico - - - 404 0 - 4.2963ms
+2022-06-03 20:16:49.675 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7093/swagger/ - -
+2022-06-03 20:16:49.677 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7093/swagger/ - - - 301 0 - 1.6668ms
+2022-06-03 20:16:49.680 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7093/swagger/index.html - -
+2022-06-03 20:16:49.723 +01:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2022-06-03 20:16:49.817 +01:00 [DBG] Response markup was updated to include browser refresh script injection.
+2022-06-03 20:16:49.818 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7093/swagger/index.html - - - 200 - text/html;charset=utf-8 137.7860ms
+2022-06-03 20:16:49.833 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7093/swagger/swagger-ui-bundle.js - -
+2022-06-03 20:16:49.833 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7093/swagger/swagger-ui.css - -
+2022-06-03 20:16:49.841 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7093/swagger/swagger-ui-standalone-preset.js - -
+2022-06-03 20:16:49.843 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - -
+2022-06-03 20:16:49.849 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - - - 200 11982 application/javascript;+charset=utf-8 5.5876ms
+2022-06-03 20:16:49.850 +01:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-06-03 20:16:49.852 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7093/swagger/swagger-ui.css - - - 200 143632 text/css 19.0601ms
+2022-06-03 20:16:49.852 +01:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-06-03 20:16:49.859 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7093/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 18.1492ms
+2022-06-03 20:16:49.867 +01:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-06-03 20:16:49.868 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7093/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 35.1739ms
+2022-06-03 20:16:49.976 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7093/swagger/favicon-32x32.png - -
+2022-06-03 20:16:49.977 +01:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2022-06-03 20:16:49.977 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7093/swagger/favicon-32x32.png - - - 200 628 image/png 1.6454ms
+2022-06-03 20:16:49.996 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - -
+2022-06-03 20:16:50.070 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 73.9454ms
+2022-06-03 20:19:40.379 +01:00 [DBG] Connection id "0HMI5IM5CV682" received FIN.
+2022-06-03 20:19:40.384 +01:00 [DBG] Connection id "0HMI5IM5CV682" is closing.
+2022-06-03 20:19:40.387 +01:00 [DBG] Connection id "0HMI5IM5CV682" is closed. The last processed stream ID was 33.
+2022-06-03 20:19:40.388 +01:00 [DBG] Connection id "0HMI5IM5CV682" sending FIN because: "The client closed the connection."
+2022-06-03 20:19:40.393 +01:00 [DBG] Connection id "0HMI5IM5CV682" stopped.

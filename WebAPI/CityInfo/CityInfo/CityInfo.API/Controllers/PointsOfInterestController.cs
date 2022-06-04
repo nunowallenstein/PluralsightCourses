@@ -2,6 +2,7 @@
 using CityInfo.API.Entity;
 using CityInfo.API.Models;
 using CityInfo.API.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
@@ -9,6 +10,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace CityInfo.API.Controllers
 {
     [Route("api/cities/{cityId}/pointsofinterest")]
+    [Authorize(Policy ="MustBeFromAntwerp")]
     [ApiController]
     public class PointsOfInterestController : ControllerBase
     {
@@ -50,6 +52,13 @@ namespace CityInfo.API.Controllers
         [HttpGet("{pointofinterestId}", Name = "GetPointOfInterest")]
         public async Task<ActionResult<PointOfInterestDto>> GetPointOfInterest(int cityId, int pointOfInterestId)
         {
+            var cityName = User.Claims.FirstOrDefault(c => c.Type == "city")?.Value;
+
+            if (!(await _cityInfoRepository.ValidateCityName(cityId, cityName)))
+            {
+                return Forbid();
+            }
+
             if (!await _cityInfoRepository.HasCityAsync(cityId))
                 return NotFound();
 
@@ -122,9 +131,6 @@ namespace CityInfo.API.Controllers
             if (pointOfInterestEntity == null)
                 return NotFound();
 
-
-
-
             var pointOfInterestToPatch = _mapper.Map<PointOfInterestForUpdateDto>(pointOfInterestEntity);
 
       
@@ -151,7 +157,7 @@ namespace CityInfo.API.Controllers
         }
         [HttpDelete("{pointofinterestId}")]
 
-        public async ActionResult DeletePointOfInterest(int cityId, int pointOfInterestId)
+        public async Task<ActionResult> DeletePointOfInterest(int cityId, int pointOfInterestId)
         {
 
             if(!await _cityInfoRepository.HasCityAsync(cityId))

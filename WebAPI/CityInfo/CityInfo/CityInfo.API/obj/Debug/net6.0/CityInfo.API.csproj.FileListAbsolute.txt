@@ -68,3 +68,11 @@ C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CityInfo\CityInfo\CityInf
 C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CityInfo\CityInfo\CityInfo.API\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CityInfo\CityInfo\CityInfo.API\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CityInfo\CityInfo\CityInfo.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CityInfo\CityInfo\CityInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CityInfo\CityInfo\CityInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CityInfo\CityInfo\CityInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CityInfo\CityInfo\CityInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CityInfo\CityInfo\CityInfo.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CityInfo\CityInfo\CityInfo.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CityInfo\CityInfo\CityInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CityInfo\CityInfo\CityInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
