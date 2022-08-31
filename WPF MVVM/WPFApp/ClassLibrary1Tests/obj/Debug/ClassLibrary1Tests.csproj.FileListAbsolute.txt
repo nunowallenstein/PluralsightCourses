@@ -1,0 +1,17 @@
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WPF MVVM\WPFApp\ClassLibrary1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WPF MVVM\WPFApp\ClassLibrary1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WPF MVVM\WPFApp\ClassLibrary1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WPF MVVM\WPFApp\ClassLibrary1Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WPF MVVM\WPFApp\ClassLibrary1Tests\bin\Debug\ClassLibrary1Tests.dll
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WPF MVVM\WPFApp\ClassLibrary1Tests\bin\Debug\ClassLibrary1Tests.pdb
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WPF MVVM\WPFApp\ClassLibrary1Tests\bin\Debug\ClassLibrary1.dll
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WPF MVVM\WPFApp\ClassLibrary1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WPF MVVM\WPFApp\ClassLibrary1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WPF MVVM\WPFApp\ClassLibrary1Tests\bin\Debug\ClassLibrary1.pdb
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WPF MVVM\WPFApp\ClassLibrary1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WPF MVVM\WPFApp\ClassLibrary1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WPF MVVM\WPFApp\ClassLibrary1Tests\obj\Debug\ClassLibrary1Tests.csproj.AssemblyReference.cache
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WPF MVVM\WPFApp\ClassLibrary1Tests\obj\Debug\ClassLibrary1Tests.csproj.CoreCompileInputs.cache
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WPF MVVM\WPFApp\ClassLibrary1Tests\obj\Debug\ClassLibrary1Tests.csproj.CopyComplete
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WPF MVVM\WPFApp\ClassLibrary1Tests\obj\Debug\ClassLibrary1Tests.dll
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WPF MVVM\WPFApp\ClassLibrary1Tests\obj\Debug\ClassLibrary1Tests.pdb
