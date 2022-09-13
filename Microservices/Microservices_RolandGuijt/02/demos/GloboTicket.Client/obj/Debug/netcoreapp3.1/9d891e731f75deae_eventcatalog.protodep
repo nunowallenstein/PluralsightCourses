@@ -1,3 +1,0 @@
-obj\Debug\netcoreapp3.1/Eventcatalog.cs \
-obj\Debug\netcoreapp3.1/EventcatalogGrpc.cs: C:/Users/Nuno/.nuget/packages/grpc.tools/2.23.0/build/native/include/google/protobuf/timestamp.proto\
- ../eventcatalog.proto
