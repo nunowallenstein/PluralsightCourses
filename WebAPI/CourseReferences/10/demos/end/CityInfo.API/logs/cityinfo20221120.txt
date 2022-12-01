@@ -1,0 +1,43 @@
+2022-11-20 11:01:05.144 +00:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2022-11-20 11:01:05.639 +00:00 [INF] Entity Framework Core 6.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.0' with options: None
+2022-11-20 11:01:05.679 +00:00 [DBG] Migrating using database 'main' on server 'CityInfo.db'.
+2022-11-20 11:01:05.684 +00:00 [DBG] Opening connection to database 'main' on server 'CityInfo.db'.
+2022-11-20 11:01:05.693 +00:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CourseReferences\10\demos\end\CityInfo.API\CityInfo.db'.
+2022-11-20 11:01:05.704 +00:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2022-11-20 11:01:05.709 +00:00 [DBG] Created DbCommand for 'ExecuteScalar' (3ms).
+2022-11-20 11:01:05.711 +00:00 [DBG] Opening connection to database 'main' on server 'CityInfo.db'.
+2022-11-20 11:01:05.713 +00:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CourseReferences\10\demos\end\CityInfo.API\CityInfo.db'.
+2022-11-20 11:01:05.718 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2022-11-20 11:01:05.731 +00:00 [INF] Executed DbCommand (14ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2022-11-20 11:01:05.733 +00:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CourseReferences\10\demos\end\CityInfo.API\CityInfo.db'.
+2022-11-20 11:01:05.735 +00:00 [DBG] Closed connection to database 'main' on server 'CityInfo.db'.
+2022-11-20 11:01:05.736 +00:00 [DBG] Opening connection to database 'main' on server 'CityInfo.db'.
+2022-11-20 11:01:05.736 +00:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CourseReferences\10\demos\end\CityInfo.API\CityInfo.db'.
+2022-11-20 11:01:05.737 +00:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2022-11-20 11:01:05.737 +00:00 [DBG] Created DbCommand for 'ExecuteScalar' (0ms).
+2022-11-20 11:01:05.737 +00:00 [DBG] Opening connection to database 'main' on server 'CityInfo.db'.
+2022-11-20 11:01:05.737 +00:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CourseReferences\10\demos\end\CityInfo.API\CityInfo.db'.
+2022-11-20 11:01:05.737 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2022-11-20 11:01:05.737 +00:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2022-11-20 11:01:05.737 +00:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CourseReferences\10\demos\end\CityInfo.API\CityInfo.db'.
+2022-11-20 11:01:05.737 +00:00 [DBG] Closed connection to database 'main' on server 'CityInfo.db'.
+2022-11-20 11:01:05.746 +00:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2022-11-20 11:01:05.746 +00:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2022-11-20 11:01:05.746 +00:00 [DBG] Opening connection to database 'main' on server 'CityInfo.db'.
+2022-11-20 11:01:05.746 +00:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CourseReferences\10\demos\end\CityInfo.API\CityInfo.db'.
+2022-11-20 11:01:05.747 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2022-11-20 11:01:05.747 +00:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2022-11-20 11:01:05.749 +00:00 [DBG] A data reader was disposed.
+2022-11-20 11:01:05.749 +00:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\WebAPI\CourseReferences\10\demos\end\CityInfo.API\CityInfo.db'.
+2022-11-20 11:01:05.749 +00:00 [DBG] Closed connection to database 'main' on server 'CityInfo.db'.
+2022-11-20 11:01:05.761 +00:00 [DBG] 'CityInfoContext' disposed.
