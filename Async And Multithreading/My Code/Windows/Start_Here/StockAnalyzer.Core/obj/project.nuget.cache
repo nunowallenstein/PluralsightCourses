@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t9QKP+yM98GPZCRZkHEmVxNMdWNwTTY6BqCAyg8EkvFJIJDt/youC5zKPx1QnMwhrnBqXwvqno8RocHcCkgFfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nuno\\Desktop\\Github\\RPA_C#\\Pluralsight\\Async And Multithreading\\My Code\\Windows\\Start_Here\\StockAnalyzer.Core\\StockAnalyzer.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nuno\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5CIkPKDl+LLkwWq7RoJFBlOVNYwx5xmUsrlkcCJidPDKAxKe6vQrYehoEy9PP5k52Q7DkH+jQXAXSBS4dBqBkg==",
+  "dgSpecHash": "7QXvpvIBSM18aJzQYBGM/QIoblOyNa48enYp38xL6TEYpgcHJ+l+PObByGX48xXurQEXafEXCafKTbyUeGQRZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nuno\\Desktop\\Github\\RPA_C#\\Pluralsight\\WebAPI\\CityInfo\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
+  "projectFilePath": "C:\\Users\\Nuno\\Desktop\\Github\\Pluralsight\\WebAPI\\CityInfo\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nuno\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Nuno\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

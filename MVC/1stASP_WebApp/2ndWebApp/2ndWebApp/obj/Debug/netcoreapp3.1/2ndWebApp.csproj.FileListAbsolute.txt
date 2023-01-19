@@ -205,3 +205,8 @@ C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndW
 C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndWebApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndWebApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndWebApp\obj\Debug\netcoreapp3.1\staticwebassets\2ndWebApp.StaticWebAssets.Pack.cache
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.2ndWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.2ndWebApp.props
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.2ndWebApp.props
+C:\Users\Nuno\Desktop\Github\RPA_C#\Pluralsight\MVC\1stASP_WebApp\2ndWebApp\2ndWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.2ndWebApp.props
